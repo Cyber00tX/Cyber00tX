@@ -1,17 +1,15 @@
-<h1 align="center">👋 Hey, I'm Loki</h1>
-<h3 align="center">🚩 Ethical Hacker | Red Teamer | Cybersecurity Enthusiast</h3>
-
+<!-- Anonymous GIF Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Anonymous Hacker Logo">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F120385&psig=AOvVaw0UxOhCJcgKxy2DiraxYH1R&ust=1749179412343000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCJu6On2Y0DFQAAAAAdAAAAABAo" width="200" alt="Anonymous Logo" />
 </p>
 
+<!-- Blinking Hacker Text -->
 <p align="center">
-  <marquee width="60%" direction="left" height="30px"><strong>🟢 On the way to become a great hacker...</strong></marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=On+the+journey+to+become+a+great+hacker..." alt="Typing SVG" />
 </p>
 
----
-
-## 💫 About Me:
+# 💫 About Me:
+## 👋 Hey, I'm Loki  
 🎓 I'm a student of Cyber Science & Technology, passionate about **Ethical Hacking** and **Offensive Security**.  
 💻 I forge security tools, uncover vulnerabilities, and dive deep into the art of **red teaming** 🚩 with enthusiasm.  
 
@@ -22,11 +20,15 @@
 - ⚔️ Offensive Tool Development in Python/Bash  
 - 🧪 Payload Fuzzing & Exploitation Automation  
 - 🤖 OSCP Prep | CTFs | Malware Analysis  
-- 🧱 Bypassing WAFs | Evading Detection  
+- 🧱 Bypassing WAFs | Evading Detection
+
+- Updating: Journey to Cybersecurity Specialist.
+
+
 
 ---
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,13 +48,12 @@
 
 ---
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=cyber00tX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cyber00tX&theme=dark&hide_border=false)<br/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=cyber00tX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cyber00tX&icon=0&color=0" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
