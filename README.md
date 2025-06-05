@@ -5,13 +5,13 @@
 
 <!-- Blinking Hacker Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=On+the+journey+to+become+a+great+hacker..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hack+The+Planet..." alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
 ## 👋 Hey, I'm Loki  
 🎓 I'm a student of Cyber Science & Technology, passionate about **Ethical Hacking** and **Offensive Security**.  
-💻 I forge security tools, uncover vulnerabilities, and dive deep into the art of **red teaming** 🚩 with enthusiasm.  
+💻 I forge security tools, uncover vulnerabilities, and dive deep into the art of **Red Teaming** 🚩 with enthusiasm.  
 
 ---
 
@@ -22,7 +22,7 @@
 - 🤖 OSCP Prep | CTFs | Malware Analysis  
 - 🧱 Bypassing WAFs | Evading Detection
 
-- Updating: Journey to Cybersecurity Specialist.
+- Updating: ON the Journey to became Cybersecurity Specialist.
 
 
 
