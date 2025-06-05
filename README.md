@@ -1,6 +1,6 @@
 <!-- Anonymous GIF Header -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/uKMrvvbkwGEAAAAd/anonymous-anonymous-logo.gif" width="200" alt="Anonymous Logo"/>
+  <img src="logo.gif" width="300" alt="Anonymous Logo"/>
 </p>
 
 
