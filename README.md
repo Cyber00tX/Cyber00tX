@@ -1,10 +1,12 @@
 <!-- Anonymous GIF Header -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F120385&psig=AOvVaw0UxOhCJcgKxy2DiraxYH1R&ust=1749179412343000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCJu6On2Y0DFQAAAAAdAAAAABAo" width="200" alt="Anonymous Logo" />
+  <img src="https://media1.tenor.com/m/uKMrvvbkwGEAAAAd/anonymous-anonymous-logo.gif" width="200" alt="Anonymous Logo"/>
 </p>
 
+
+<!-- Blinking Hacker Text -->
 <p align="center">
-  <img src="https://media.tenor.com/Nl9Xmh57mtUAAAAC/anonymous-anonymous-logo.gif" width="200" alt="Anonymous Logo"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hack+The+Planet..." alt="Typing SVG" />
 </p>
 
 
